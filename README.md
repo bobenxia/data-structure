@@ -1,2 +1,4 @@
-# data-structure
-None
+数据结构自学
+
+用于码教程上的案例
+
